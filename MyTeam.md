@@ -2,13 +2,13 @@
 layout: default
 title: My Team
 nav_order: 2
-permalink: /
+permalink: /MyTeam
 ---
 
 
 
 
-Our Team
+My Team
 ========
 
 - [Balakrishna Reddy Pailla]() - Manager
