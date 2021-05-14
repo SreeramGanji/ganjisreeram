@@ -11,13 +11,13 @@ permalink: /ContactMe
 Personal
 ========
 
-- Email: [ganjisreeram@gmail.com]
-- Mobile: [+91-9490069235]
+- Email: ganjisreeram@gmail.com
+- Mobile: +91-9490069235
 
 
 
 Office
 ========
 
-- Email: [ganji.sreeram@ril.com]
-- Mobile: [+91-9440069235]
+- Email: ganji.sreeram@ril.com
+- Mobile: +91-9440069235
